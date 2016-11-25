@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Smart Hospital Admin</string>
+    <string name="activity_log_in_hint_email">Email</string>
+    <string name="activity_log_in_hint_password">Password</string>
+    <string name="activity_log_in_sign_in">Sign in</string>
+    <string name="activity_log_in_sign_up">Sign up</string>
+    <string name="menu_logout">Log Out</string>
+    <string name="activity_main_log_out">Log out</string>
+    <string name="activity_main_hospital">Add hospital</string>
+    <string name="error_upload_image">Upload image failed</string>
+    <string name="success_hospital_created">Hospital created :)</string>
+</resources>

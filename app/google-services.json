@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "488076808824",
+    "firebase_url": "https://smart-hospital-e63e4.firebaseio.com",
+    "project_id": "smart-hospital-e63e4",
+    "storage_bucket": "smart-hospital-e63e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488076808824:android:40de23666ffa85ca",
+        "android_client_info": {
+          "package_name": "com.smarthospital.smarthospital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488076808824-9hk2i20p0tcu8g5796f2ea3bjfc4hrr9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smarthospital.smarthospital",
+            "certificate_hash": "7194B3A784F562F0AB19859E89ED984551EBC54E"
+          }
+        },
+        {
+          "client_id": "488076808824-1qpauomdl503e5i3vdu336dkqp6gftsm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXYku5Tax2PRa64qzvtUB9ouokQkd_DsQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488076808824-1qpauomdl503e5i3vdu336dkqp6gftsm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488076808824:android:7f9a37f578ddf500",
+        "android_client_info": {
+          "package_name": "com.example.mykola.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488076808824-1k4ssso884i95b6gagtpencm4nde53o9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mykola.myapplication",
+            "certificate_hash": "A68C0C19905AEC1DC1C96D1BEE60E67046A42EA6"
+          }
+        },
+        {
+          "client_id": "488076808824-1qpauomdl503e5i3vdu336dkqp6gftsm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXYku5Tax2PRa64qzvtUB9ouokQkd_DsQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488076808824-1qpauomdl503e5i3vdu336dkqp6gftsm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488076808824:android:38b4b646ae3d9471",
+        "android_client_info": {
+          "package_name": "com.noproblem.smarthospitaladmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488076808824-1qpauomdl503e5i3vdu336dkqp6gftsm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXYku5Tax2PRa64qzvtUB9ouokQkd_DsQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
